@@ -35,8 +35,9 @@ The "transcript" folder contains:
 - Original transcripts and annotations from Galati & Brennan (2010).
 - Pre-processed transcripts with annotated hedges marked to the right of original utterances.
 - The codebook used to train an additional RA to annotate the transcripts.
+- A csv file with all 63 transcripts combined in one file.
 
-The "coding folder contains:
+The "code" folder contains:
 - TBD
 
 <h2>Acknowledgements</h2>
