@@ -1,7 +1,6 @@
-
 <h1>Training LLMs to Recognize Hedges in Spontaneous Narratives</h1>
 
-This repo contains the data and code for the analyses presented "Training LLMs to Recognize Hedges in Spontaneous Narratives."
+This repo contains the data and code for the analyses presented in [Training LLMs to Recognize Hedges in Spontaneous Narratives](https://arxiv.org/abs/2408.03319), which was accepted to [SIGDIAL 2024](https://2024.sigdial.org/).
 
 If you have any questions, you can direct them to the appropriate author using the information below. The first three authors have contributed equally to this study. 
 
